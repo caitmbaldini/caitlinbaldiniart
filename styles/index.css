@@ -97,3 +97,11 @@ nav {
     display: flex;
     flex-direction: column;
 }
+
+figure {
+    width: 500px;
+}
+
+figure > img {
+    max-width: 100%;
+}
